@@ -1,6 +1,6 @@
 # ENGR-315-Final-Project
 
-    Camden Lovings and Connor Gunnell
+By Camden Lovings and Connor Gunnell
 Objective and Motivation:
   To analyze data regarding Education, population, Poverty, and Unemployment to find relationships, correlations or other interesting phenomena.
   The team plans to utilize the County-Level Datasets provided by the Department of Agriculture. This data covers 4 files, which are planned to be combined in a list. This dataset lists data for education, poverty, unemployment and median household income, and population over 4 unique CSV files. The primary goal is to try and interpret the data and find potential correlations between the different files. To do this, we are planning to ask these 3 questions:
