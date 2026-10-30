@@ -16,10 +16,7 @@ Implementation Details
  
 Results
 
-Conclusions
-
-Actions that need to be completed:
-    
+Conclusions    
     
 References/Source files:
         U.S. Department of Agriculture, Economic Research Service. (2025, January 31). County-level data sets. https://www.ers.usda.gov/data-products/county-level-data-sets/documentation, Accessed October 21st, 2026.
