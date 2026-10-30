@@ -19,7 +19,7 @@ Results
 Conclusions
 
 Actions that need to be completed:
-            List all the actions that need to be completed (a checklist). Think about this as a guide to who wants to duplicate the project.
-            Mention the issues that the group is facing for each action, if any.
-    References/Source files:
+    
+    
+References/Source files:
         U.S. Department of Agriculture, Economic Research Service. (2025, January 31). County-level data sets. https://www.ers.usda.gov/data-products/county-level-data-sets/documentation, Accessed October 21st, 2026.
