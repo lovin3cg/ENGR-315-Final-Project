@@ -12,7 +12,8 @@ Objective and Motivation:
 Introduction/Context of project: 
   Within the dataset there are four sets of data, and each outlines different subjects. Each dataset comes with a note about the data. For example, the poverty data explains the number of people below the poverty line, and how it counts families combined as being in poverty. The education dataset comes with no notes but does show 49 different pieces of data for each county, from bachelors degrees, to high school graduation rates, to even less than a high school diploma, showing values by decade starting in 1970. The unemployment data shows civilian labor force, employed, and unemployed, as well the unemployment rate for each year from 2000-2023. Finally, the population dataset shows the census data, estimates of population in the years following the census, and the change factors, between births, deaths, domestic migration, and immigration. 
 
-Implementation Details
+Implementation Details:
+  Each Data set has a unique "Attribute" column. These attributes separates the data by a specific attribute, ex. within the education data an attribute is "High school diploma only", each attribute is followed by a date. In order for the data to be processed each data set will need to be processed for each specific attribute utilizing 'split' commands to create separate data based on the year and attribute. 
  
 Results
 
