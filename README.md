@@ -24,7 +24,14 @@ Implementation Details:
  
 Results
 
+Question one:
+  Average rate of Bachelors 23.82%
+  Less than half the average: 818
+  More than 50% the average: 76
+  More than double the average: 9 ['35028', '36061', '51013', '51510', '51610', '6075', '8053', '8097', '8113']
+  
 Conclusions    
+  Analyzing the Graph Generated 
     
 References/Source files:
         U.S. Department of Agriculture, Economic Research Service. (2025, January 31). County-level data sets. https://www.ers.usda.gov/data-products/county-level-data-sets/documentation, Accessed October 21st, 2026.
