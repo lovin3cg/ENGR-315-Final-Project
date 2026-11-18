@@ -14,11 +14,11 @@ Introduction/Context of project:
 
   Current Questions aiming to answer:
 
-  What is the rate at which percentage of people with a bachelor's degree or higher, are there counties with a percentage 50% higher than average? Are there counties with 2x times the average?
+  1. What is the rate at which percentage of people with a bachelor's degree or higher, are there counties with a percentage 50% higher than average? Are there counties with 2x times the average?
 
-  For Education, population, and unemployment in Harrisonburg, was there a time a dip or spike in one group was followed by a dip or spike in a different group.
+  2. For Education, population, and unemployment in Harrisonburg, was there a time a dip or spike in one group was followed by a dip or spike in a different group.
 
-  Does employment have an effect on high school or college graduation, do counties that have high employment have high high school and college graduations?
+  3. Does employment have an effect on high school or college graduation, do counties that have high employment have high high school and college graduations?
 
   
 Implementation Details:
